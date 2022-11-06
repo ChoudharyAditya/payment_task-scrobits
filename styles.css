@@ -117,7 +117,7 @@ body{
   top: 100px;
   color: #4d1933;
 }
-/* #pay1{
+#pay1{
   cursor: pointer;
   position: absolute;
   background-color:#4d1933;
@@ -164,7 +164,7 @@ body{
   height: 35px;
   width: 200px;
   left: 75px;
-} */
+} 
 #S22{
   height: 150px;
   width: 150px;
@@ -241,7 +241,7 @@ body{
   height: 150px;
   width: 150px;
 }
-/* #pay4{
+#pay4{
   cursor: pointer;
   position: absolute;
   background-color:#4d1933;
@@ -288,4 +288,4 @@ body{
   height: 35px;
   width: 200px;
   left: 75px;
-} */
+} 
